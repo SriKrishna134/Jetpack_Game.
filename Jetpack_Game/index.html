@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="FinalGameStyle.css" rel="stylesheet" type="text/css" />
+</head>
+<body onkeydown="moveGamePiece(event)" onkeyup="resetMovement(event)">
+<script src="JetpackGameJS.js">
+</script>
+<div id="startarea">
+<button class="starb" onclick="startJetpackGame()"id="start" disabled="true">Start Game</button> 
+<h1 class="header">    
+  Welcome!
+</h1>
+<h3>
+  Below are the following characters you can play with:
+</h3>
+<table class "main">    
+  <tr class="nav-link">
+    <td>Zippy(1).</td>
+    <td>Binky(2).</td>
+    <td>Fluff(3).</td>
+    <td>Gooby(4).</td>
+    <td>Wiggy(5).</td>
+  </tr>
+  <tr>
+    <td><img height=100px width=100px src="Images/Character1T.png"></td>
+    <td><img height=100px width=100px src="Images/Character1M.png"></td>
+    <td><img height=100px width=100px src="Images/Character1F.png"></td>
+    <td><img height=100px width=100px src="Images/Character1Noob.png"></td>
+    <td><img height=100px width=100px src="Images/Character1Banana.png"></td>
+  </tr>
+  <tr>
+    <td><img height=100px width=100px src="Images/Character1TFlying.png"></td>
+    <td><img height=100px width=100px src="Images/Character1MFlying.png"></td>
+    <td><img height=100px width=100px src="Images/Character1FFlying.png"></td>
+    <td><img height=100px width=100px src="Images/Character1NoobFlying.png"></td>
+    <td><img height=100px width=100px src="Images/Character1BananaFlying.png"></td>
+  </tr>
+</table>
+<br><br>
+<input class="texthold" type="text" id="characterdecision" placeholder="1, 2, 3, 4, or 5"></input> 
+<button class="btn-cont" onclick="choseCharacter()" id="charactersubmit">Submit</button> 
+<p id="characterchosen"></p>
+</div>
+</body>
+</html>
