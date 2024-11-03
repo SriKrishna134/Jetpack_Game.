@@ -7,3 +7,8 @@ the frontend page of the web app:
 <img src="https://utfs.io/f/mJvRnIkXEid5iun7zJgotJEDuSHdcl0XM94hkUnz2sWZQfVg"/>
 2:
 <img src="https://utfs.io/f/mJvRnIkXEid5K0ZVQafFybz6lwTPv4jp0I8ZhrQC1cn75UoR"/>
+
+## Tech used:
+1.HTML
+2.css
+3.javascript
