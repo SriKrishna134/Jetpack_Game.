@@ -10,5 +10,7 @@ the frontend page of the web app:
 
 ## Tech used:
 1.HTML
+
 2.CSS
+
 3.javaScript
