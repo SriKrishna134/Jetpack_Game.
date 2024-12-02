@@ -12,7 +12,7 @@ Feel free to explore and see my work in  <a href='https://super-gta-adventure.ve
 <img src="https://utfs.io/f/mJvRnIkXEid5K0ZVQafFybz6lwTPv4jp0I8ZhrQC1cn75UoR"/>
 
 ## Tech used:
-1.HTML
+1. HTML
 
 2.CSS
 
