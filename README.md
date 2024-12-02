@@ -16,4 +16,4 @@ Feel free to explore and see my work in  <a href='https://super-gta-adventure.ve
 
 2. CSS
 
-3. javaScript
+3. JavaScript
