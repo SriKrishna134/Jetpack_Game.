@@ -12,7 +12,11 @@ Feel free to explore and see my work in  <a href='https://super-gta-adventure.ve
 <img src="https://utfs.io/f/mJvRnIkXEid5K0ZVQafFybz6lwTPv4jp0I8ZhrQC1cn75UoR"/>
 
 ## Tech used:
-1. HTML
+1. HTML (HyperText Markup Language)
+
+Acts as the backbone of your project by structuring the content on web pages.
+Defines elements such as headings, paragraphs, lists, links, images, forms, and more to build the foundation of your web application.
+Facilitates the integration of multimedia and interactive elements.
 
 2. CSS
 
