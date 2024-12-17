@@ -25,5 +25,5 @@ Allows customization of fonts, colors, layouts, and responsiveness, ensuring a u
 
 3. JavaScript:
 
--Brings interactivity and functionality to your web pages, making them dynamic and responsive to user inputs.
+->Brings interactivity and functionality to your web pages, making them dynamic and responsive to user inputs.
 Powers event handling, API integrations, form validation, and DOM manipulation.
