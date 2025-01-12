@@ -16,6 +16,7 @@ It is jetpack game with html css and javascript coding language's.
 <img src="https://utfs.io/f/mJvRnIkXEid5K0ZVQafFybz6lwTPv4jp0I8ZhrQC1cn75UoR"/>
 
 ## Tech used:
+
 1. HTML (HyperText Markup Language):-
 
 -> Acts as the backbone of your project by structuring the content on web pages.
