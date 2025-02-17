@@ -23,6 +23,7 @@
 1. HTML (HyperText Markup Language):-
 
 -> Acts as the backbone of your project by structuring the content on web pages.
+
 Defines elements such as headings, paragraphs, lists, links, images, forms, and more to build the foundation of your web application.
 Facilitates the integration of multimedia and interactive elements.
 
