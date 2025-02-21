@@ -32,6 +32,7 @@ Facilitates the integration of multimedia and interactive elements.
 -> Enhances the visual presentation of your website or application by applying styles to the HTML structure.
 Allows customization of fonts, colors, layouts, and responsiveness, ensuring a user-friendly and appealing design.
 
+
 3. JavaScript:-
 
 -> Brings interactivity and functionality to your web pages, making them dynamic and responsive to user inputs and gives effective output. 
