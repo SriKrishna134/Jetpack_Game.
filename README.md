@@ -27,6 +27,7 @@
 Defines elements such as headings, paragraphs, lists, links, images, forms, and more to build the foundation of your web application.
 Facilitates the integration of multimedia and interactive elements.
 
+
 2. CSS (Cascading Style Sheets):-
 
 -> Enhances the visual presentation of your website or application by applying styles to the HTML structure.
