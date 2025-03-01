@@ -13,6 +13,7 @@
 # Screenshot of the web app:
 
 ## 1: [Settings]
+
   <img src="https://utfs.io/f/mJvRnIkXEid5iun7zJgotJEDuSHdcl0XM94hkUnz2sWZQfVg"/>
 
 ## 2: [Same Space]
