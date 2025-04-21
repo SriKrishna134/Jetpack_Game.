@@ -39,4 +39,4 @@ Allows customization of fonts, colors, layouts, and responsiveness, ensuring a u
 
 -> Brings interactivity and functionality to your web pages, making them dynamic and responsive to user inputs and gives effective output. 
 
--=>  Powers event handling, API integrations, form validation, and DOM manipulation. 
+==>  Powers event handling, API integrations, form validation, and DOM manipulation. 
