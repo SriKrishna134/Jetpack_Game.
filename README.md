@@ -29,7 +29,7 @@
 Facilitates the integration of multimedia and interactive elements.
 
 
-2. CSS (Cascading Style Sheets):-
+2. CSS (Cascading Style Sheets):-                  
 
 -> Enhances the visual presentation of your website or application by applying styles to the HTML structure.
 Allows customization of fonts, colors, layouts, and responsiveness, ensuring a user-friendly and appealing design.
