@@ -6,8 +6,8 @@
 // app //
 
 
-  ->Feel free to explore and see my work in live <a href='https://super-gta-adventure.vercel.app/'>action.</a>                        
-
+  ->Feel free to explore and see my work in live <a href='https://super-gta-adventure.vercel.app/'>action.</a>                                                                      
+           
 
 
 # Screenshot of the web app:
