@@ -1,6 +1,6 @@
   # Jetpack_Game.                                                                   
 
-  -> It is jetpack action game with html, css and javascript coding language's.
+  -> It is jetpack action game with html, css and javascript coding language's.                      
 
 
 // app //
